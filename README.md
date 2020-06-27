@@ -1,2 +1,2 @@
 # Gaga
-![](https://github.com/Voryla/Gaga/raw/master/show_screenshot/test.png)
+![](https://github.com/Voryla/Gaga/blob/master/screenshot/screenshot1.png)
