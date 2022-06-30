@@ -8,7 +8,7 @@
 
 技术栈：JAVA Swing。
 
-作品演示地址：[大二图书管理管理系统演示视频_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1P34y147ru/?vd_source=3bb392221986998942d6811690699178)
+作品演示地址：[作品展示DNF-demo_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1R3411p7Ap/)
 
 
 
