@@ -9,6 +9,7 @@
 技术栈：JAVA Swing。
 
 作品演示地址：[作品展示DNF-demo_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1R3411p7Ap/)
+## 作品二：https://github.com/Voryla/GagaLibrary
 
 ## 运行截图
 
